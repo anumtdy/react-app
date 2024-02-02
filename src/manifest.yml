@@ -1,8 +1,0 @@
----
-applications:
--   name: piper-test
-    path: build/
-    instances: 1  
-    buildpack: nodejs_buildpack
-    memory: 512M 
-    
