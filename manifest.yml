@@ -1,6 +1,6 @@
 ---
 applications:
--   name: piper-test
+-   name: qpa-dev
     path: .
     instances: 1  
     buildpack: nodejs_buildpack
